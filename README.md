@@ -13,12 +13,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ranjit-raj-nahak-9abb23231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranjit-raj-nahak-9abb23231" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/26658248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26658248" height="30" width="40" /></a>
-<a href="https://kaggle.com/ranjitrajnahak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ranjitrajnahak" height="30" width="40" /></a>
-<a href="https://instagram.com/rz_sazeous_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rz_sazeous_10" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rezzfury gaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rezzfury gaming" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sniperraoqv4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sniperraoqv4" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ranjit-raj-nahak-9abb23231" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranjit-raj-nahak-9abb23231" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/26658248" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26658248" height="30" width="40" /></a>
+<a href="https://kaggle.com/ranjitrajnahak" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ranjitrajnahak" height="30" width="40" /></a>
+<a href="https://instagram.com/rz_sazeous_10" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rz_sazeous_10" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/rezzfury gaming" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rezzfury gaming" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sniperraoqv4" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sniperraoqv4" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
